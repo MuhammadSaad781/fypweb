@@ -1,0 +1,50 @@
+*{
+  font-family: Inter ;
+  font-weight: bold;
+  
+  
+}
+.navbar{
+  background-color: #242F9B;
+}
+.emailbox{
+  border-color: #242F9B;
+  border-width: 10rem;
+  border-radius: 10;
+}
+.landingpagediv{
+  background-color: black;
+  height: 400px;
+  width: '100%';
+  justify-content: center;
+  align-items: center;
+}
+.newcampaignimage{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.image{
+  width: 30%;
+  
+}
+.campaignstarted{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.goodluck{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homepagebutton{
+  display: flex;
+  justify-content: center;
+  
+}
+.donatedimage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
